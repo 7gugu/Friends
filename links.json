@@ -102,5 +102,12 @@
         "url": "https://www.7gugu.com/",
         "target": "_blank",
         "desc": "一只鸽子的Code Space"
+    },
+    {
+        "name": "Xinhui工作室",
+        "avatar": "https://2xinhui.com/avatar.png",
+        "url": "https://2xinhui.com/",
+        "target": "_blank",
+        "desc": "海外账户、虚拟卡、eSIM 云居民实操教程"
     }
 ]
